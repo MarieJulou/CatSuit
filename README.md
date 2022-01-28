@@ -31,6 +31,14 @@ Now connect your websocket to ws://localhost:8000
 With the Wemos send OSC data to your local IP address and use port 9000
 eg : 192.168.1.169:9000
 
-You should change and upload the Wemos code accordingly to IP adress and port.
+You should change and upload the Wemos code accordingly to IP adress and port server.
+
+eg : 
+```
+const char* host = "172.21.72.110";
+const int recv_port = 8000;
+const int send_port = 9000;
+
+```
 
 Then connect the alimentation cord in the back of the Catsuit to its battery 
