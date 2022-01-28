@@ -6,7 +6,7 @@ The manual on the **full manufacturing process** of Catsuit is on the --- file.
 
 To launch a **demo of Catsuit** : 
 
-##Installation
+## Installation
 
 Install node.js for your operating system.
 Download or clone the repo of https://github.com/pandrr/osc2ws into a folder. 
