@@ -35,10 +35,12 @@ starting osc receiver on port 9000
 
 Then connect the alimentation cord in the back of the Catsuit to its battery.
 The 3 Wemos will send OSC data to your local IP address and use port 9000
+
 eg : 192.168.1.169:9000
+
 Soon the server should be receiving messages from the Wemos.
 
-If the server **doesn't receive messages** the Wemos are not connected to the right wifi and/or server
+If the **server doesn't receive any messages** the Wemos are not connected to the right wifi and/or server
 
 in this case
 You should change and upload the Wemos code accordingly to IP adress and port server.
